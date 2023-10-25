@@ -1,0 +1,14 @@
+C:\Users\xiaomi\source\repos\dnevnikEJI\dnevnikEJI\bin\Debug\net7.0\dnevnikEJI.exe
+C:\Users\xiaomi\source\repos\dnevnikEJI\dnevnikEJI\bin\Debug\net7.0\dnevnikEJI.deps.json
+C:\Users\xiaomi\source\repos\dnevnikEJI\dnevnikEJI\bin\Debug\net7.0\dnevnikEJI.runtimeconfig.json
+C:\Users\xiaomi\source\repos\dnevnikEJI\dnevnikEJI\bin\Debug\net7.0\dnevnikEJI.dll
+C:\Users\xiaomi\source\repos\dnevnikEJI\dnevnikEJI\bin\Debug\net7.0\dnevnikEJI.pdb
+C:\Users\xiaomi\source\repos\dnevnikEJI\dnevnikEJI\obj\Debug\net7.0\dnevnikEJI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xiaomi\source\repos\dnevnikEJI\dnevnikEJI\obj\Debug\net7.0\dnevnikEJI.AssemblyInfoInputs.cache
+C:\Users\xiaomi\source\repos\dnevnikEJI\dnevnikEJI\obj\Debug\net7.0\dnevnikEJI.AssemblyInfo.cs
+C:\Users\xiaomi\source\repos\dnevnikEJI\dnevnikEJI\obj\Debug\net7.0\dnevnikEJI.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\source\repos\dnevnikEJI\dnevnikEJI\obj\Debug\net7.0\dnevnikEJI.dll
+C:\Users\xiaomi\source\repos\dnevnikEJI\dnevnikEJI\obj\Debug\net7.0\refint\dnevnikEJI.dll
+C:\Users\xiaomi\source\repos\dnevnikEJI\dnevnikEJI\obj\Debug\net7.0\dnevnikEJI.pdb
+C:\Users\xiaomi\source\repos\dnevnikEJI\dnevnikEJI\obj\Debug\net7.0\dnevnikEJI.genruntimeconfig.cache
+C:\Users\xiaomi\source\repos\dnevnikEJI\dnevnikEJI\obj\Debug\net7.0\ref\dnevnikEJI.dll
